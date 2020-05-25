@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eaec0b6e-7c6e-4024-9d1b-de3284b16f7f" name="Default Changelist" comment="" />
+    <list default="true" id="eaec0b6e-7c6e-4024-9d1b-de3284b16f7f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../WebSite/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSite/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebSite/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../WebSite/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../WebSite" />
-    <property name="settings.editor.selected.configurable" value="liveEdit" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
     <configuration type="NodeJSConfigurationType" nameIsGenerated="true" working-dir="$PROJECT_DIR$/../WebSite">
@@ -43,12 +46,24 @@
       <updated>1589785307887</updated>
       <workItem from="1589785309733" duration="40000" />
       <workItem from="1589785417089" duration="1361000" />
-      <workItem from="1589787001527" duration="5414000" />
+      <workItem from="1589787001527" duration="9134000" />
     </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1589934202809</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1589934202809</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
   </component>
   <component name="WindowStateProjectService">
     <state x="552" y="179" key="#Deployment" timestamp="1589787254831">
@@ -71,6 +86,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="226" key="#com.intellij.ide.macro.MacrosDialog/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589785585889" />
+    <state x="585" y="117" key="CommitChangelistDialog2" timestamp="1589934201849">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="117" key="CommitChangelistDialog2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589934201849" />
     <state x="740" y="276" key="FileChooserDialogImpl" timestamp="1589934117012">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -143,14 +162,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1899" height="348" key="GridCell.Tab.3.right/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589785525353" />
-    <state x="461" y="163" key="SettingsEditor" timestamp="1589787634826">
+    <state x="461" y="163" key="SettingsEditor" timestamp="1589939811957">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="163" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589787634826" />
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1589934135278">
+    <state x="461" y="163" key="SettingsEditor/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589939811957" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2" timestamp="1589934286542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="254" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589934135278" />
+    <state x="552" y="254" key="Vcs.Push.Dialog.v2/1920.0.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589934286542" />
     <state x="656" y="118" width="607" height="804" key="find.popup" timestamp="1589788051854">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
